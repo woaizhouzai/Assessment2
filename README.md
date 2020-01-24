@@ -13,4 +13,4 @@ Fiile description:
 It is a combines maps of the UK that can solve the problem of site location. Each map has their own shading as a reference of the best place, this programme is designed to combine this three factors by using different weight(importance) to judge the best place for every use.
 Upload all the files to Jupyter and run main.ipynb. The figure window will pop up and with draging the scroll bar. It will display different colour of image on the figure window. For details, please refer to Test_Report.docx
 
-Type of License:
+Type of License: MIT License
